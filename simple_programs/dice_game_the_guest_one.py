@@ -1,5 +1,5 @@
 
-import random
+import random, sys
 
 class Introduction:
     
@@ -318,9 +318,11 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                     
         else:
             break
+            sys.exit()
     
 else:
     print("exit!")
+    sys.exit()
 
         
     
