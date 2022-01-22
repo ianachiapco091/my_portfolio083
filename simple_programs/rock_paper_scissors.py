@@ -6,10 +6,12 @@ win = 0
 lose = 0
 tie = 0
 
-print("WINS: ", win, "LOSSES: ", lose, "TIES: ", tie)
+print("~~ -{ WINS: ", win, "LOSSES: ", lose, "TIES: ", tie, "}- ~~")
 
 while True:
-    print("'r' for ROCK, 'p' for PAPER, 's' for SCISSORS, or 'q' for QUIT")
+    print("""          
+'r' for ROCK, 'p' for PAPER, 's' for SCISSORS, or 'q' for QUIT
+    """)
     
     action = str(input("==> "))
     
