@@ -5,7 +5,9 @@ secret_num = random.randint(1, 100)
 al_guess = 0
 rem_guess = 15
 
-print("I am thinking of a number between 1 to 100")
+print("""
+I am thinking of a number between 1 to 100...
+Then you will have 15 chances to guess the number. Goodluck!""")
 
 while al_guess <= rem_guess:
     
@@ -18,7 +20,6 @@ while al_guess <= rem_guess:
         if al_guess == rem_guess:
             print("I am so sorry, you didn't guess that number...")
             print("And that number is: ", secret_num, "... Better luck next time...")
-            break
             
     
     elif player_num > secret_num:
@@ -27,7 +28,6 @@ while al_guess <= rem_guess:
         if al_guess == rem_guess:
             print("I am so sorry, you didn't guess that number...")
             print("And that number is: ", secret_num, "... Better luck next time...")
-            break
         
     elif player_num == secret_num:
         print("You finally guess that number at " , al_guess, " guesses!")
