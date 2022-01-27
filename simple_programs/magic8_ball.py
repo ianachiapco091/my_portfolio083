@@ -65,17 +65,19 @@ def getfortune(answer_num):
     
 while True:
     print("""
-  Enter 'get' to show the fortune for your question
+  Enter any keys or characters to show the fortune from Magic 8 Ball
+  
+  Enter 'e' if you want to exit
           """)
           
     command = input("---> ").lower()
     
-    if command == 'get':
+    if command == "":
         roll = random.randint(1, 15)
         fortune = getfortune(roll)
         print("""
  The Fortune is: """, fortune)
         
-    else:
+    elif command == 'e':
         sys.exit()
     
