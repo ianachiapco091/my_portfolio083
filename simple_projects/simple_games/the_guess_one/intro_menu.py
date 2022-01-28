@@ -3,7 +3,7 @@ class Introduction:
     def title (self):
         title_1 = """
         
-        ~~ | ~~ Dice Game (Story 1): The Guest One ~~ | ~~
+        ~~ | ~~ Dice Game (Story 1): The Guess One ~~ | ~~
         
         """
         
