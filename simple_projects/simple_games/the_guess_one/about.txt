@@ -1,0 +1,19 @@
+
+Welcome to my very first simple project (or game) that belongs to my dice board games series(I'm not really sure when should
+I make another series due to my academic schedules). I am really sure that I have much time to do my projects, not just making
+simple game projects, but other kinds of projects that I should learn first before making.
+
+About this game:
+
+      This game is actually using all imageries (Auditory, Visual, Tactile, Sensation, etc.) since the fact that this game
+  is words only game console (or I will improve it later) since that's what I have learned so far. I am usually using random
+  module / method to function this game too well. Random phrases and we can imagine how big is that board game that I ever made.
+  You have 500 board steps left and keep rolling two dices so that you can see some little strange phrases that actually repeated
+  but I would like to add these phrases for good experience.
+
+How to use this game / program:
+
+      You should always open the file named main.py so that my other files that main.py will be work as well.
+
+
+Update: I will tell you soon
