@@ -3,7 +3,7 @@ class Introduction:
     def title (self):
         title_1 = """
         
-        ~~ | ~~ Dice Game (Story 1): The Guess One ~~ | ~~
+        ~~ | ~~ Dice Game (Story 1): The Guest One ~~ | ~~
         
         """
         
@@ -17,7 +17,6 @@ class Introduction:
         and writing something on her works. And there is a simple game called
         Dice Game, that is made from her without looking at the tutorials. The
         codes seem common, but learned. -- 
-        
         """
         
         return print(statement)
@@ -29,16 +28,13 @@ class Introduction:
         any physical images, only typing. The speaker will tell you where
         your character stands and there are some consequences that once you step
         into it. Let's get started! -- 
-        
         """
         
         return print(intruc)
     
     def credit(self):
         credt = """ 
-        
         ~~ This Project belongs to the Owner's Portfolio ~~~
-        
         """
         
         return print(credt)

@@ -1,4 +1,3 @@
-
 import random, sys
 
 from intro_menu import Introduction
@@ -11,13 +10,10 @@ intro_1.title()
 intro_1.intro()
 intro_1.instruction()
 intro_1.start_menu()
-
 intro_1.credit()
 
 game_1 = fortune()
-
 game_2 = Consequence()
-
 game_end_1 = game_ending()
 
 start = str(input("Enter (s or e): ")).lower()
@@ -26,7 +22,6 @@ start = str(input("Enter (s or e): ")).lower()
 
 board_steps = 500
 tsteps = 0
-
 
 if start == "s":
     
@@ -55,9 +50,7 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
             # that variable adds and shows to the player how many steps that ever take
             
             print(top)
-            
             print("{{ ------------------------------------------- }}")
-            
             steps = top
             tsteps = 0
             
@@ -75,10 +68,8 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                                 
             else:
                 print("Board Steps Left: ", "{ ", board_steps, " }")
-                
                 print("{{ ------------------------------------------- }}")
-            
-            
+                
             # adding value to the tsteps until reaching the amount of what steps has
             
             while tsteps <= steps:
@@ -88,15 +79,12 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                 # one random message a time that can appear, it can be repeated
                 
                 if tsteps <= 4:
-            
                     game_1.start_game_1()
                     
                 else:
-                    
                     game_1.start_game_2()
                     
                 if tsteps == steps:
-                    
                     # this random module can decide to choose when the player can put into fortune or fate
                 
                     fortune = ["safe", "consequence"]
@@ -108,7 +96,6 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                         happen = ["You are now screwed!", "Do you hear that?", "That fresh fruit is falling into you!",
                                   "There is a beehive", "Revealing one of the Guest One's Secrets",
                                   "There is something mysterious at your front...", "That nut is falling into you!"]
-                        
                         event = random.choice(happen)
                         print(event)
                         
@@ -135,10 +122,8 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                             
                             if decision == 'yes':
                                 print("You eat that fruit and proceed...")
-                                
                             elif decision == 'no':
                                 print("Since you bring your bag, keep that...")
-                                
                             else:
                                 print("You drop that and leave...")
                                 
@@ -151,34 +136,25 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                             
                             if decision == "yes":
                                 print("You eat that nut and proceed...")
-                                
                             elif decision == 'no':
                                 print("Since you bring your bag, keep that...")
-                            
                             else:
                                 print("You drop that and leave...")
                             
                         elif event == "There is something mysterious at your front...":
-                            
                             game_2.obstacles()
                                 
                         elif event == "There is a beehive":
-                            
                             game_2.bees()
-                                
                         else:
                             game_2.other_speak()
-                        
                     else:
-                            
                         game_1.safe()
-                    
-        else:
-            break
+                        
+        elif roll == 'no':
             sys.exit()
     
-else:
-    print("exit!")
+elif start == 'e':
     sys.exit()
 
         

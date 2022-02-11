@@ -5,15 +5,16 @@ class Consequence:
     
     def auditory_imagery(self):
         conseq = ["*The Unusual Echo!*", "*Crying Mockingbird*", "*Train crosses the rails*",
-                  "*Tearing Sound of the Tree Branch*", "A Wild Boar", "*whistle*"]
+                  "*Tearing Sound of the Tree Branch*", "A Wild Boar", "*whistle*", "Waterfalls",
+                  "Falling Rocks", "Echoed Sound of any Instrumental Instrument"]
         
         respon = random.choice(conseq)
         print("You Hear: ", respon)
         
     def guess_one_secrets(self):
         conseq = ["See the Primal Horror (Sp1ad_!@)", "When I Touch a Latched Knob (rlP_0I;N)",
-                  "Come Back! (eI_eN16<)", "Tired of Tutorials (^$n_/xi=)", "Programmin Habit (BKo!%*19)",
-                  "My Talents (anG&rtW1)", "Keep an Eye to You (sdE-90Fv)"]
+                  "Come Back! (eI_eN16<)", "Tired of Tutorials (^$n_/xi=)", "Programming Habit (BKo!%*19)",
+                  "My Talents (anG&rtW1)", "Keep an Eye to You (sdE-90Fv)", "It is Time to Quit News (gL0vd33)"]
         
         respon = random.choice(conseq)
         print("You Got: ", respon)
