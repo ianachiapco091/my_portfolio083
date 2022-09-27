@@ -32,6 +32,14 @@ class Consequence:
         respon = random.choice(conseq)
         print("You Pick: ", respon)
         
+    def decision_food(self, keep):
+        if keep == 'yes':
+            print("You eat that fruit and proceed...")
+        elif keep == 'no':
+            print("Since you bring your bag, keep that...")
+        else:
+            print("You drop that and leave...")
+        
     def obstacles(self):
         conseq = ["A Deer", "Fog with the flock of random birds", "A Rock", "A Log that suddenly lying into your front",
                   "A Post", "Barrels", "An Owl"]

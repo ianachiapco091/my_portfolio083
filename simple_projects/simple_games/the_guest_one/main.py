@@ -1,10 +1,14 @@
+# imported from the Python Modules
 import random, sys
+import pyinputplus as pyip
 
+# imported from the creator's own modules.
 from intro_menu import Introduction
 from game_fortune import fortune
 from game_consequences import Consequence
 from game_ends import game_ending
-    
+
+# assign each class into the basic labels    
 intro_1 = Introduction()
 intro_1.title()
 intro_1.intro()
@@ -16,25 +20,27 @@ game_1 = fortune()
 game_2 = Consequence()
 game_end_1 = game_ending()
 
-start = str(input("Enter (s or e): ")).lower()
+
+# this code below is about to start the game or just quit.
+start = pyip.inputYesNo("Do you want to play this board game? ")
 
 # indicator for the game, but never showed up until this game program starts
 
 board_steps = 500
 tsteps = 0
 
-if start == "s":
+if start == "yes":
     
     # as the game start, the loop begins
     
     while board_steps >= tsteps:
         
         # this input that indicates based on the decision of the player
-        roll = input("""
+        roll = pyip.inputChoice(['roll', 'hold', 'quit'],"""
 
-Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
+Roll ('roll' to roll them!' or 'hold' to pause the game. And enter 'quit' to leave)? """).lower()
         
-        if roll == "yes":
+        if roll == "roll":
             
             print("{{ ------------------------------------------- }}")
             
@@ -120,13 +126,7 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                             
                             decision = input("Do you want to eat that (yes or no)? ").lower()
                             
-                            if decision == 'yes':
-                                print("You eat that fruit and proceed...")
-                            elif decision == 'no':
-                                print("Since you bring your bag, keep that...")
-                            else:
-                                print("You drop that and leave...")
-                                
+                            game_2.decision_food(decision)
                             
                         elif event == "That nut is falling into you!":
                             
@@ -134,12 +134,7 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                             
                             decision = input("Do you Keep that (yes or no)? ").lower()
                             
-                            if decision == "yes":
-                                print("You eat that nut and proceed...")
-                            elif decision == 'no':
-                                print("Since you bring your bag, keep that...")
-                            else:
-                                print("You drop that and leave...")
+                            game_2.decision_food(decision)
                             
                         elif event == "There is something mysterious at your front...":
                             game_2.obstacles()
@@ -151,10 +146,21 @@ Roll ('yes' to roll them!' or 'no' to leave the entire game)? """).lower()
                     else:
                         game_1.safe()
                         
-        elif roll == 'no':
+        elif roll == 'hold':
+            
+            #this code below that was been used to paused game.
+            print("Game Pause... \n\n\n\n")
+            
+            pause = pyip.inputYesNo("Do you want to continue?")
+            
+            if pause == 'yes':
+                continue
+        
+        elif roll == 'quit':
+            print("You quit the game")
             sys.exit()
     
-elif start == 'e':
+elif start == 'no':
     sys.exit()
 
         
