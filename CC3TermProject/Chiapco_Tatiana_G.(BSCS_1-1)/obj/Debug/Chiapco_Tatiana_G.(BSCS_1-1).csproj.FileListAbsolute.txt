@@ -1,0 +1,14 @@
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe.config
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).pdb
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).csproj.AssemblyReference.cache
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).csproj.CoreCompileInputs.cache
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe
+C:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).pdb
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).csproj.AssemblyReference.cache
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).csproj.CoreCompileInputs.cache
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\obj\Debug\Chiapco_Tatiana_G.(BSCS_1-1).pdb
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe.config
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).exe
+D:\CC3TermProject\Chiapco_Tatiana_G.(BSCS_1-1)\bin\Debug\Chiapco_Tatiana_G.(BSCS_1-1).pdb

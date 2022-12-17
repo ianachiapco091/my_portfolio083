@@ -1,0 +1,38 @@
+                                            ╓──────────────────────────────────────╖                                             
+                                            ║   ╓──────────────────────────────╖   ║                                             
+                                            ║   ║                              ║   ║                                             
+                                            ║   ║                              ║   ║                                             
+       ╓────────────────╖                   ║   ║                              ║   ║                    ╓────────────────╖       
+       ║                ║                   ║   ║                              ║   ║                    ║                ║ 
+       ║                ║                   ║   ║                              ║   ║                    ║                ║
+       ║                ║                   ║   ╙──────────────────────────────╜   ║                    ║                ║
+       ║                ║                   ║                                      ║                    ║                ║
+    ║                      ║                ║                                      ║                  ║                    ║
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                        ║║║                                         ║║║                                      ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                                                                                                             ██
+██                                            --Parts of the Camera: Shutter Trigger--                                         ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██      This part of the camera is a kind of tactile push-button switch which comes with dual press button. The first press,   ██
+██    which is known as the half click that acquiring the focus of the subject or a scene. While the second press, which is    ██
+██    the full press that activating the shutter mechanism.                                                                    ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██      Some cameras allow you to separate the half press Autofocus feature from this button. You can also allow to configure  ██
+██    this button on the backside for focusing. So, this part of the camera only activates the shutter alone in that condition.██
+██    This part of the camera is located on the top rightside of the camera.                                                   ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                        [ 0 ] Back                                                           ██
+██                                                                                                                             ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                        ║║║                                         ║║║                                      ██
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                                                                                                             ██
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
