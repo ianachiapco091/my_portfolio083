@@ -1,0 +1,38 @@
+                                            ╓──────────────────────────────────────╖                                             
+                                            ║   ╓──────────────────────────────╖   ║                                             
+                                            ║   ║                              ║   ║                                             
+                                            ║   ║                              ║   ║                                             
+       ╓────────────────╖                   ║   ║                              ║   ║                    ╓────────────────╖       
+       ║                ║                   ║   ║                              ║   ║                    ║                ║ 
+       ║                ║                   ║   ║                              ║   ║                    ║                ║
+       ║                ║                   ║   ╙──────────────────────────────╜   ║                    ║                ║
+       ║                ║                   ║                                      ║                    ║                ║
+    ║                      ║                ║                                      ║                  ║                    ║
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                        ║║║                                         ║║║                                      ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                                                                                                             ██
+██                                          --Parts of the Camera: Communication Parts--                                       ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██      This part of the camera are usually located on either side of the camera. The main example of the communication parts  ██
+██    which is USB port that presents in all camera models that considered as the image transfer from camera to the computer,  ██
+██    it is also provide with a cable for camera to connect the computer. The other ports that not all of them are present in  ██
+██    all models of the camera such as HDMI port, audio port, ethernet, wired remote trigger port, and display port.           ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██      It is also providing wireless alternatives like Bluetooth and Wifi connection to tranfer image files from camera to the██
+██    other device wirelessly and much easier than the wired method.                                                           ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                        [ 0 ] Back                                                           ██
+██                                                                                                                             ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                        ║║║                                         ║║║                                      ██
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                                                                                                             ██
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████

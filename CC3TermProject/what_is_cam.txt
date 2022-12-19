@@ -1,0 +1,38 @@
+                                            ╓──────────────────────────────────────╖                                             
+                                            ║   ╓──────────────────────────────╖   ║                                             
+                                            ║   ║                              ║   ║                                             
+                                            ║   ║                              ║   ║                                             
+       ╓────────────────╖                   ║   ║                              ║   ║                    ╓────────────────╖       
+       ║                ║                   ║   ║                              ║   ║                    ║                ║ 
+       ║                ║                   ║   ║                              ║   ║                    ║                ║
+       ║                ║                   ║   ╙──────────────────────────────╜   ║                    ║                ║
+       ║                ║                   ║                                      ║                    ║                ║
+    ║                      ║                ║                                      ║                  ║                    ║          
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                        ║║║                                         ║║║                                      ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                                                                                                             ██
+██                                                 Introduction: What is Camera?                                               ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██     Camera is an electronic device and optical instrument that captures a visual image that based on what it can only seen. ██
+██   Not only taking photos but it can also records a visual image (with sounds, of course) that based on the motions and      ██
+██   position of itself or its holder (human and objects). It can only used for photography and videography.                   ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██     By its light sensitive, camera can only capture light photons from the visual images, that is also based from the       ██
+██   visible spectrum for human viewing. Any kind of camera can be the same structure (see the Parts of the Camera).           ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██     Sources:                                                                                                                ██
+██                                                                                                                             ██
+██              Camera definition by Britannica                                                                                ██
+██                                                                                                                             ██
+██                                        [ 1 ] Proceed               [ 0 ] Back                                               ██
+██                                                                                                                             ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                        ║║║                                         ║║║                                      ██
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                                                                                                             ██
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████

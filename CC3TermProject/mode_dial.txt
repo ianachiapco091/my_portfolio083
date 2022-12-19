@@ -1,0 +1,38 @@
+                                            ╓──────────────────────────────────────╖                                             
+                                            ║   ╓──────────────────────────────╖   ║                                             
+                                            ║   ║                              ║   ║                                             
+                                            ║   ║                              ║   ║                                             
+       ╓────────────────╖                   ║   ║                              ║   ║                    ╓────────────────╖       
+       ║                ║                   ║   ║                              ║   ║                    ║                ║ 
+       ║                ║                   ║   ║                              ║   ║                    ║                ║
+       ║                ║                   ║   ╙──────────────────────────────╜   ║                    ║                ║
+       ║                ║                   ║                                      ║                    ║                ║
+    ║                      ║                ║                                      ║                  ║                    ║ 
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                        ║║║                                         ║║║                                      ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                                                                                                             ██
+██                                           --Function of the Camera: The Mode Dial--                                         ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██      To select a shooting mode, rotate the dial until the icon for the desired mode aligns with the index.                  ██
+██                                                                                                                             ██\
+██                                                                                                                             ██
+██    [AUTO] = the camera automatically optimizes settings to the scene.                                                       ██
+██    [P] (Program AE) = Aperture and shutter speed can be adjusted using program shift.                                       ██
+██    [S] (shutter priority AE), [A] (aperture priority AE), [M] (Manual) = Select for full control over camera settings.      ██
+██    [C1], [C2], [C3], [C4] (Custom 1, 2, 3, 4) = Take pictures using previously-stored settings.                             ██
+██    [Cine-Cam like symbol] (Movie) = Record movies or video from a scene.                                                    ██
+██    [Filter] (Filter) = Taking photos using different filter effects                                                         ██
+██    [SP] (Scene Position0 = Choose a scene suited to the subject or shooting conditions.                                     ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                                                                                             ██
+██                                                        [ 0 ] Back                                                           ██
+██                                                                                                                             ██
+██║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║██
+██                                        ║║║                                         ║║║                                      ██
+██                                           ║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║                                         ██
+██                                                                                                                             ██
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
